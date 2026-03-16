@@ -8,7 +8,9 @@ The hmm profile available here was created based on a subset of ITS (Internal Tr
 # Files
 
 _ITS_mortie_GB_for_hmm.fasta_ - fasta file with raw ITS sequences downloaded from GenBank NCBI
+
 _ITS_mortie_GB_hmm_al.fasta_ - fasta file with aligned ITS sequences downloaded from GenBank NCBI
+
 _ITS_mortie_GB.hmm_ - hmm profile created based on the sequences
 
 
