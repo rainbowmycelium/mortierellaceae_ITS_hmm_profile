@@ -13,6 +13,9 @@ _ITS_mortie_GB_hmm_al.fasta_ - fasta file with aligned ITS sequences downloaded 
 
 _ITS_mortie_GB.hmm_ - hmm profile created based on the sequences
 
+_Ministry_logo.png_ - the logo of financing institution
+
+_Program_logo.jpeg_ - the logo of grant program
 
 # Financing
 
