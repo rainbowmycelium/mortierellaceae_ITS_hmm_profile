@@ -1,4 +1,4 @@
-# Mortierellaceae ITS hmm profile
+# _Mortierellaceae_ ITS hmm profile
 
 Fasta files and hmm profile enabling the search of ITS region in _Mortierellaceae_ fungi. 
 
